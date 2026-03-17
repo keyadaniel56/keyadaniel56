@@ -1,28 +1,41 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00FFAA&center=true&vCenter=true&width=435&lines=Daniel+Keya;Full-Stack+Developer;Go+Enthusiast;Zone01+Kisumu" alt="Typing SVG" />
-</div>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Daniel+%F0%9F%91%8B;Full-Stack+Developer+%40+Zone01+Kisumu;Go+%26+Python+Enthusiast;Building+Scalable+Systems+%26+Real-Time+Apps" alt="Typing SVG" />
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/daniel-keya-a80a0037b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://dev.to/danikeya"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Dev-00FFAA?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Location-Kisumu,%20Kenya-FFD700?style=for-the-badge"/>
-</div>
+  <br/>
 
-<br/>
+  <!-- Optional: Add a cool banner or profile picture effect -->
+  <!-- You can generate one at https://github-profile-header-generator or use your own -->
+  <!-- <img src="YOUR_BANNER_LINK_HERE" width="800" alt="Banner"/> -->
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=keyadaniel56&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=6" />
-</div>
+  <h3>🚀 About Me</h3>
 
-## 🚀 About Me
+  ```go
+  package main
 
-```javascript
-const daniel = {
-  title: "Full-Stack Developer @ Zone01 Kisumu",
-  code: ["Go", "Python", "HTML", "JavaScript"],
-  tools: ["Gin", "PostgreSQL", "pgxpool", "Git", "Docker"],
-  currentFocus: "Building scalable backend systems & real-time applications",
-  challenge: "Mastering advanced concurrency patterns in Go",
-  funFact: "I'm 20h behind, but always ahead in code 🕒"
-}
+  import "fmt"
+
+  type Developer struct {
+      Name           string
+      Role           string
+      Location       string
+      Focus          string
+      Currently      string
+      FunFact        string
+      Languages      []string
+      Tools          []string
+  }
+
+  func main() {
+      daniel := Developer{
+          Name:      "Daniel (keyadaniel56 / danikeya)",
+          Role:      "Full-Stack Developer @ Zone01 Kisumu",
+          Location:  "Kisumu, Kenya",
+          Focus:     "Building scalable backend systems & real-time applications",
+          Currently: "Mastering advanced concurrency patterns in Go 🐹",
+          FunFact:   "I'm 20h behind, but always ahead in code 🕒😎",
+          Languages: []string{"Go", "Python", "JavaScript", "HTML/CSS"},
+          Tools:     []string{"Gin", "PostgreSQL + pgxpool", "Docker", "Git"},
+      }
+
+      fmt.Printf("%+v\n", daniel)
+  }
