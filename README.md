@@ -1,67 +1,54 @@
-# Hi there, I'm Daniel Keya 👋
+# Daniel Keya
 
-🎯 **Focusing**  
-I am a Full-Stack Developer at **Zone01 Kisumu**, building and delivering software through intensive, project-based, and collaborative development. I'm passionate about Golang, system design, and creating practical solutions.
+**Full-Stack Developer · Zone01 Kisumu**
 
-📍 Based in Kisumu  
-🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/daniel-keya-a80a0037b) | [Dev.to](https://dev.to/danikeya)
+I build backend-focused software with an emphasis on clean architecture, concurrency, and practical systems. Currently deepening my expertise in Go, distributed systems, and API design through intensive, project-based development.
 
-## 🛠️ My Tech Stack & Focus
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-keya-a80a0037b)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/danikeya)
 
-- **Languages:** Go, Python, HTML, JavaScript, CSS
-- **Frameworks & Tools:** Gin, PostgreSQL (pgxpool), Git
-- **Areas of Interest:** Backend Development, APIs, Algorithms, Real-time applications
+---
 
-## 🚀 Featured Projects
+## Tech Stack
 
-Here are some of the repositories I'm currently working on or proud of:
+**Languages**
 
-- **[DSA](https://github.com/keyadaniel56/DSA)**  
-  A comprehensive collection of Data Structure and Algorithm tasks in Golang, ranging from beginner to advanced levels. (Go)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-- **[Piscine-Go](https://github.com/keyadaniel56/piscine-go)**  
-  A record of my activities and projects from the intensive Zone01 Kisumu programming bootcamp. (Go)
+**Tools & Frameworks**
 
-- **[gin-quickstart](https://github.com/keyadaniel56/gin-quickstart)**  
-  A step-by-step guide to getting started with the Gin web framework in Go, perfect for beginners. (Go)
+![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat-square&logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-- **[golang-channels](https://github.com/keyadaniel56/golang-channels)**  
-  A project dedicated to teaching the use of channels in Go for concurrency, from basic to advanced concepts. (Go)
+---
 
-- **[authmiddleware](https://github.com/keyadaniel56/authmiddleware)**  
-  A practical example demonstrating how to create authentication middlewares in Golang. (Go)
+## Projects
 
-- **[algotrading](https://github.com/keyadaniel56/algotrading)**  
-  Exploring algorithmic trading concepts and implementations. (Python)
+| Repository | Description | Language |
+|---|---|---|
+| [DSA](https://github.com/keyadaniel56/DSA) | Data structures and algorithms — beginner to advanced | Go |
+| [golang-chatapp](https://github.com/keyadaniel56/golang-chatapp) | Real-time chat application | Go |
+| [authmiddleware](https://github.com/keyadaniel56/authmiddleware) | Authentication middleware patterns in Go | Go |
+| [todo-app-pgxpool](https://github.com/keyadaniel56/todo-app-pgxpool) | Todo app demonstrating pgxpool database connections | Go |
+| [golang-channels](https://github.com/keyadaniel56/golang-channels) | Concurrency with Go channels, basic to advanced | Go |
+| [gin-quickstart](https://github.com/keyadaniel56/gin-quickstart) | Getting started guide for the Gin web framework | Go |
+| [algotrading](https://github.com/keyadaniel56/algotrading) | Algorithmic trading concepts and implementations | Python |
+| [Piscine-Go](https://github.com/keyadaniel56/piscine-go) | Projects from the Zone01 Kisumu Go bootcamp | Go |
 
-- **[golang-chatapp](https://github.com/keyadaniel56/golang-chatapp)**  
-  A real-time chat application built with Go. (Go)
+---
 
-- **[todo-app-pgxpool](https://github.com/keyadaniel56/todo-app-pgxpool)**  
-  A simple todo application demonstrating database connections in Go using pgxpool. (Go)
+## GitHub Stats
 
-## 📈 My GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=keyadaniel56&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keyadaniel56&layout=compact&theme=default&hide_border=true&langs_count=6" height="160" />
+</p>
 
-I'm actively building and learning. Here's a snapshot of my recent activity:
+---
 
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=keyadaniel56&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
-*(Note: This includes contributions from my public and private repositories where possible.)*
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keyadaniel56&layout=compact&theme=radical&hide_border=true&langs_count=8)
-
-## 💻 Languages & Technologies
-
-Languages I ❤️ & use regularly:
-
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">  
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">  
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">  
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">  
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-
-## 💬 Let's Connect!
-
-I'm always open to discussing Go, web development, algorithms, real-time systems, or potential collaborations. Feel free to reach out!
-
-Happy coding! 🚀
+*Open to collaborations on Go projects, backend systems, and developer tooling.*
