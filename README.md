@@ -42,6 +42,8 @@ I build backend-focused software with an emphasis on clean architecture, concurr
 | [gin-quickstart](https://github.com/keyadaniel56/gin-quickstart) | Getting started guide for the Gin web framework | Go |
 | [algotrading](https://github.com/keyadaniel56/algotrading) | Algorithmic trading concepts and implementations | Python |
 | [Piscine-Go](https://github.com/keyadaniel56/piscine-go) | Projects from the Zone01 Kisumu Go bootcamp | Go |
+| [leave-management-sytstem](https://github.com/keyadaniel56/leave-management-system) | A management system that monitors leave for members in an organization | Laravel |
+
 
 ---
 
